@@ -66,6 +66,14 @@ Scroll down to `[data-theme="dark"]` (around line 25) and customize the dark the
 3. See your changes update in real-time!
 4. Try clicking the theme toggle (☀️/🌙) to see both light and dark modes
 
+## Customization Checklist
+
+- [ ] Update the page title and tagline
+- [ ] Replace the hero image with one that fits your topic
+- [ ] Customize 2-3 text elements (About section, Highlights, etc.)
+- [ ] Experiment with color variables (try both light and dark modes)
+- [ ] Update at least one footer link
+
 ### 4. Understanding the Three Files
 
 **HTML (index.html) - The Structure**
