@@ -21,11 +21,33 @@ JavaScript makes things interactive. In this template, it powers the light/dark 
 
 ## Customization Checklist
 
+**First things first: What's this page about?** Pick something you actually care about - a band, a show, a hobby, your cat, a game, a place you love, whatever. This template is intentionally bland and generic. Your job is to make it about something real.
+
+**The baseline (everyone completes these):**
+
 - [ ] Update the page title and tagline
 - [ ] Replace the hero image with one that fits your topic
 - [ ] Customize 2-3 text elements (About section, Highlights, etc.)
 - [ ] Experiment with color variables (try both light and dark modes)
 - [ ] Update at least one footer link
+
+## Optional Challenges (Go Deeper!)
+
+The checklist above is your baseline - it helps you understand how the three files work together. Once you've completed it, here are some ways to level up:
+
+🎨 **Theme Designer** - Create a cohesive color scheme across both light AND dark mode (not just random colors - think about your palette as a system)
+
+🖼️ **Image Hunter** - Find and add an image from the web that fits your topic (practice the real workflow: find image, copy URL, paste, test)
+
+🌓 **Night Mode Master** - Make your dark mode distinctly different from light mode (not just inverses - make different aesthetic choices)
+
+✍️ **Content Creator** - Replace ALL placeholder text with real content about your topic (commit to the bit!)
+
+🔗 **Link Curator** - Update all three footer links to real destinations related to your topic
+
+🎯 **Layout Hacker** - Figure out how to change the layout or spacing (What controls card widths? Can you make highlights 3 columns instead of 4? Advanced!)
+
+**Pick what interests you. You don't need to do all of them. You don't need to do any of them. But bland is the enemy!**
 
 ## How to Customize
 
