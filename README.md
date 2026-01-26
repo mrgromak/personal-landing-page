@@ -11,17 +11,22 @@ Welcome to your first web development project! This template is a starting point
 ## Understanding the Three Files
 
 **HTML (index.html) - The Structure**
+
 Think of HTML as the skeleton. It defines what content exists and how it's organized (headings, paragraphs, images, links).
 
 **CSS (style.css) - The Style**
+
 CSS is the appearance. It controls colors, fonts, spacing, and layout. Notice how everything is connected to the HTML through classes (like `class="hero"`).
 
 **JavaScript (script.js) - The Behavior**
+
 JavaScript makes things interactive. In this template, it powers the light/dark mode toggle. You don't need to modify it for now—just observe how it works!
 
 ## Customization Checklist
 
-**First things first: What's this page about?** Pick something you actually care about - a band, a show, a hobby, your cat, a game, a place you love, whatever. This template is intentionally bland and generic. Your job is to make it about something real.
+**First things first: What's this page about?**
+
+Pick something you actually care about - a band, a show, a hobby, your cat, a game, a place you love, whatever. This template is intentionally bland and generic. Your job is to make it about something real.
 
 **The baseline (everyone completes these):**
 
