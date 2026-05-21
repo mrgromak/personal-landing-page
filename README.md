@@ -1,6 +1,6 @@
 # Personal Page Template
 
-Welcome to your first web development project! This template is a starting point for creating your own personal landing page. You can customize it to be about yourself, or about something you're passionate about (a band, hobby, cause, etc.).
+Welcome to your first web development project! This template is a starting point for creating your own personal page. You can customize it to be about yourself, or about something you're passionate about (a band, hobby, cause, etc.).
 
 ## What's Included
 
